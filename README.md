@@ -1,6 +1,6 @@
-# Machine Learning & Deep Learning Projects
+# Machine Learning Projects
 
-Welcome to my Machine Learning & Deep Learning repository. This repository contains a collection of hands-on projects covering data analysis, regression, classification, ensemble learning, and predictive modeling using Python and popular machine learning libraries.
+Welcome to my Machine Learning repository. This repository contains a collection of hands-on projects covering data analysis, regression, classification, ensemble learning, and predictive modeling using Python and popular machine learning libraries.
 
 ## 📌 Technologies Used
 
